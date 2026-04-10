@@ -36,27 +36,27 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because you always know how to make me smile! 💖",
+        text: "• Kyuki tumhari hasi sabko khush kar deti hai! 💖",
         emoji: "✨",
         gif: "gif1.gif"
     },
     {
-        text: "Because you're the best listener I know! 🌸",
+        text: "• Kyuki tum chhote se ho par sabse pyare ho! 🌸",
         emoji: "💫",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is contagious! ✨",
+        text: "• Kyuki tumhare saath sab kuch fun lagta hai! ✨",
         emoji: "🌟",
         gif: "gif1.gif"
     },
     {
-        text: "Because you make every moment special! 🎂",
+        text: "• Kyuki tumhari cute si baatein sabko hasa deti hain! 🎂",
         emoji: "💖",
         gif: "gif2.gif"
     },
     {
-        text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
+        text: "• Kyuki tum ghar ki sabse special khushi ho! 🎉",
         emoji: "🎊",
         gif: "gif1.gif"
     }
