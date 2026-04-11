@@ -41,7 +41,7 @@ const reasons = [
         gif: "gif1.gif"
     },
     {
-        text: "• Kyuki tum chhote se ho par sabse pyare ho! 🌸",
+        text: "• Kyuki tum chhote se ho par sabse cute ho! 🌸",
         emoji: "💫",
         gif: "gif2.gif"
     },
